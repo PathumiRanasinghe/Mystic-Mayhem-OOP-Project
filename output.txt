@@ -1,0 +1,221 @@
+revenclaw vs. GeraltofRivia
+
+Turn: 1 revenclaw
+Warlock attacks Ranger
+Ranger's health: 2.5	Warlock's health: 10.0
+Turn: 1 GeraltofRivia
+Warlock attacks Shooter
+Shooter's health: 0.4	Warlock's health: 10.0
+Turn: 2 revenclaw
+Warlock attacks Ranger
+Ranger's health: 0.0	Warlock's health: 10.0
+Ranger died!
+Turn: 2 GeraltofRivia
+Warlock attacks Shooter
+Shooter's health: 0.0	Warlock's health: 10.0
+Shooter died!
+Turn: 3 revenclaw
+Warlock attacks Warlock
+Warlock's health: 4.7	Warlock's health: 10.0
+Turn: 3 GeraltofRivia
+Warlock attacks Warlock
+Warlock's health: 4.7	Warlock's health: 4.7
+Turn: 4 revenclaw
+Warlock attacks Warlock
+Warlock's health: 0.0	Warlock's health: 4.7
+Warlock died!
+Turn: 4 GeraltofRivia
+Dragon attacks Warlock
+Warlock's health: 0.0	Dragon's health: 15.0
+Warlock died!
+Turn: 5 revenclaw
+Dragon attacks Squire
+Squire's health: 1.9	Dragon's health: 15.0
+Turn: 5 GeraltofRivia
+Dragon attacks Soother
+Soother's health: 3.8	Dragon's health: 15.0
+Turn: 6 revenclaw
+Dragon attacks Squire
+Squire's health: 0.0	Dragon's health: 15.0
+Squire died!
+Turn: 6 GeraltofRivia
+Dragon attacks Soother
+Soother's health: 0.0	Dragon's health: 15.0
+Soother died!
+Turn: 7 revenclaw
+Dragon attacks Medic
+Medic's health: 4.9	Dragon's health: 15.0
+Turn: 7 GeraltofRivia
+Dragon attacks Squire
+Squire's health: 1.9	Dragon's health: 15.0
+Turn: 8 revenclaw
+Dragon attacks Medic
+Medic's health: 0.0	Dragon's health: 15.0
+Medic died!
+Turn: 8 GeraltofRivia
+Dragon attacks Squire
+Squire's health: 0.0	Dragon's health: 15.0
+Squire died!
+Turn: 9 revenclaw
+Dragon attacks Dragon
+Dragon's health: 10.4	Dragon's health: 15.0
+Turn: 9 GeraltofRivia
+Dragon attacks Dragon
+Dragon's health: 10.4	Dragon's health: 10.4
+Turn: 10 revenclaw
+Dragon attacks Dragon
+Dragon's health: 5.8	Dragon's health: 10.4
+Turn: 10 GeraltofRivia
+Dragon attacks Dragon
+Dragon's health: 5.8	Dragon's health: 5.8
+Draw
+
+
+slytherin vs. GeraltofRivia
+
+Turn: 1 slytherin
+Warlock attacks Ranger
+Ranger's health: 2.5	Warlock's health: 10.0
+Turn: 1 GeraltofRivia
+Warlock attacks Shooter
+Shooter's health: 0.4	Warlock's health: 10.0
+Turn: 2 slytherin
+Warlock attacks Ranger
+Ranger's health: 0.0	Warlock's health: 10.0
+Ranger died!
+Turn: 2 GeraltofRivia
+Warlock attacks Shooter
+Shooter's health: 0.0	Warlock's health: 10.0
+Shooter died!
+Turn: 3 slytherin
+Warlock attacks Warlock
+Warlock's health: 4.9	Warlock's health: 10.0
+Turn: 3 GeraltofRivia
+Warlock attacks Soother
+Soother's health: 3.8	Warlock's health: 4.9
+Turn: 4 slytherin
+Warlock attacks Warlock
+Warlock's health: 0.0	Warlock's health: 10.0
+Warlock died!
+Turn: 4 GeraltofRivia
+Dragon attacks Soother
+Soother's health: 0.0	Dragon's health: 15.0
+Soother died!
+Turn: 5 slytherin
+Warlock attacks Medic
+Medic's health: 4.9	Warlock's health: 10.0
+Turn: 5 GeraltofRivia
+Dragon attacks Warlock
+Warlock's health: 5.4	Dragon's health: 15.0
+Turn: 6 slytherin
+Warlock attacks Medic
+Medic's health: 0.0	Warlock's health: 5.4
+Medic died!
+Turn: 6 GeraltofRivia
+Dragon attacks Warlock
+Warlock's health: 0.8	Dragon's health: 15.0
+Turn: 7 slytherin
+Warlock attacks Squire
+Squire's health: 2.1	Warlock's health: 0.8
+Turn: 7 GeraltofRivia
+Dragon attacks Warlock
+Warlock's health: 0.0	Dragon's health: 15.0
+Warlock died!
+Turn: 8 slytherin
+Dragon attacks Squire
+Squire's health: 0.0	Dragon's health: 15.0
+Squire died!
+Turn: 8 GeraltofRivia
+Dragon attacks Squire
+Squire's health: 2.6	Dragon's health: 15.0
+Turn: 9 slytherin
+Dragon attacks Dragon
+Dragon's health: 10.9	Dragon's health: 15.0
+Turn: 9 GeraltofRivia
+Dragon attacks Squire
+Squire's health: 0.0	Dragon's health: 10.9
+Squire died!
+Turn: 10 slytherin
+Dragon attacks Dragon
+Dragon's health: 6.8	Dragon's health: 15.0
+Turn: 10 GeraltofRivia
+Dragon attacks Dragon
+Dragon's health: 10.9	Dragon's health: 6.8
+Draw
+dfaa vs. GeraltofRivia
+
+dfds vs. GeraltofRivia
+
+Turn: 1 dfds
+Warlock attacks Ranger
+Ranger's health: 2.5	Warlock's health: 10.0
+Turn: 1 GeraltofRivia
+Warlock attacks Shooter
+Shooter's health: 0.4	Warlock's health: 10.0
+Turn: 2 dfds
+Warlock attacks Ranger
+Ranger's health: 0.0	Warlock's health: 10.0
+Ranger died!
+Turn: 2 GeraltofRivia
+Warlock attacks Shooter
+Shooter's health: 0.0	Warlock's health: 10.0
+Shooter died!
+Turn: 3 dfds
+Warlock attacks Warlock
+Warlock's health: 4.9	Warlock's health: 10.0
+Turn: 3 GeraltofRivia
+Warlock attacks Soother
+Soother's health: 3.8	Warlock's health: 4.9
+Turn: 4 dfds
+Warlock attacks Warlock
+Warlock's health: 0.0	Warlock's health: 10.0
+Warlock died!
+Turn: 4 GeraltofRivia
+Dragon attacks Soother
+Soother's health: 0.0	Dragon's health: 15.0
+Soother died!
+Turn: 5 dfds
+Warlock attacks Medic
+Medic's health: 4.9	Warlock's health: 10.0
+Turn: 5 GeraltofRivia
+Dragon attacks Warlock
+Warlock's health: 5.4	Dragon's health: 15.0
+Turn: 6 dfds
+Warlock attacks Medic
+Medic's health: 0.0	Warlock's health: 5.4
+Medic died!
+Turn: 6 GeraltofRivia
+Dragon attacks Warlock
+Warlock's health: 0.8	Dragon's health: 15.0
+Turn: 7 dfds
+Warlock attacks Squire
+Squire's health: 2.1	Warlock's health: 0.8
+Turn: 7 GeraltofRivia
+Dragon attacks Warlock
+Warlock's health: 0.0	Dragon's health: 15.0
+Warlock died!
+Turn: 8 dfds
+Dragon attacks Squire
+Squire's health: 0.0	Dragon's health: 15.0
+Squire died!
+Turn: 8 GeraltofRivia
+Dragon attacks Squire
+Squire's health: 2.6	Dragon's health: 15.0
+Turn: 9 dfds
+Dragon attacks Dragon
+Dragon's health: 10.9	Dragon's health: 15.0
+Turn: 9 GeraltofRivia
+Dragon attacks Squire
+Squire's health: 0.0	Dragon's health: 10.9
+Squire died!
+Turn: 10 dfds
+Dragon attacks Dragon
+Dragon's health: 6.8	Dragon's health: 15.0
+Turn: 10 GeraltofRivia
+Dragon attacks Dragon
+Dragon's health: 10.9	Dragon's health: 6.8
+Draw
+Turn: 1 dfaa
+Warlock attacks Ranger
+f vs. GeraltofRivia
+
