@@ -13,20 +13,19 @@ Mystic Mayhem is a turn-based game between two players. Each player has an army 
 
 ![Screenshot (309)](https://github.com/PathumiRanasinghe/Project3_OOP/assets/162596287/baa0ef84-983e-46f2-ab6d-30b36eaa4311)
 
- Equipmentcanalsobebought toimprovethecharacters.Uponbuyingapieceof  equipment, thecurrentvalueof thecharacterincreasesby20%of thepriceof the
- equipment.Equipment isof twotypes:artefactsandarmour.Eachcharactercanhaveupto  1artefactand1armouratagiventime.Bydefault,noneof thecharactershaveequipment.
- If theplayerchangestheequipmentofacharacter,existingequipmentof thesamekind  wouldbediscarded.Wieldingequipmentcanchangethepropertiesofcharacters.The
- availableequipment isasfollows.
+___
+
+ Equipment can also be bought to improve the characters.Upon buying a piece of equipment, the current value of the character increases by 20% of the price of the
+ equipment.Equipment is of two types:artefacts and armour.Each character can have up to 1 artefact and 1 armour at a given time.By default,none of the characters have equipment.
+ If the playerchanges the equipment of a character, existing equipment of the samekind  would be discarded. Wielding equipment can change the properties of characters.The available equipment is as follows.
 
  ![Screenshot (310)](https://github.com/PathumiRanasinghe/Project3_OOP/assets/162596287/ad4e4b59-2220-475b-b969-9b98884c591a)
 
+ ___
  
- Incombat, thecharacterstaketurnstoattack, intheorderofspeed.Thepersonwho  declareswarwill takethefirst turn.Thecharacterof thatplayerwiththehighestspeedwill
- attackfirst, followedbythecharacterof theopposingplayerwiththehighestspeed,andso  onandsoforth.Eachplayerwillbegiven10turns.Aplayerwinsagamebykillingall
- charactersof theopposingarmy. Ifbothteamsarestandingat theendof10turns, thebattle  isconsideredtobeadraw.TheattackofArchers,Knights,Mages,andMythicalCreatures
- willbetargetedonthecharacterof theopposingteamwiththelowestdefence.Whenoneof  thesecharactersattacks, thehealthof thedefenderwillbereducedby[0.5*(attackvalueof
- attackingcharacter)-0.1*(defencevalueofdefendingcharacter)].However,ahealer’s  attackisfocusedonhealingone’sownarmyinsteadofdamagingtheenemy.Therefore,
- whenahealerattacks, thehealthof thecharacterintheirownarmywiththelowesthealthis increased by 0.1*(attack value of healer). Once a character’s health reaches 0, it dies and
+ In combat, the characters take turns to attack, in the order of speed.The person who declares war will take the first turn.The character of that player with the highest speed will attackfirst, followed by the character of the opposing player with the highest speed,and so on and so forth. 
+ Each player will be given 10 turns.A player wins a game by killing all characters of the opposing army. If both teams are standing at the end of 10turns, the battle is considered to be a draw.The attack of Archers,Knights,Mages,and MythicalCreatures will be targeted on the character of the opposing team with the lowest defence. Whenoneof thesecharactersattacks, thehealthof thedefenderwillbereducedby[0.5*(attackvalueof
+ attackingcharacter)-0.1*(defencevalueofdefendingcharacter)]. However,ahealer’s  attack is focused on healing one’s own army instead of damaging the enemy.Therefore, when ahealerattacks, the health of the character in their own army with thelowest health is increased by 0.1*(attack value of healer). Once a character’s health reaches 0, it dies and
  cannot be revived till the battle ends. After a battle ends, all the characters are restored to  their state before the battle.
  
  Among characters with the same speed, the priority order of attacking is as follows.
@@ -56,17 +55,18 @@ Mystic Mayhem is a turn-based game between two players. Each player has an army 
  Considering the above details, develop an object-oriented implementation for Mystic Mayhem using Java.
  
  Create the following player profile:
+ 
  #### Player 1
- *Name: GeraltofRivia
- Username: whitewolf
- XP: 32
- Gold coins: 215
- Homeground: Marshland
- Archer: Ranger + Chainmail
- Knight: Squire
- Mage: Warlock
- Healer: Medic + Amulet
- Mythical Creature: Dragon*
+ * Name: GeraltofRivia
+ * Username: whitewolf
+ * XP: 32
+ * Gold coins: 215
+ * Homeground: Marshland
+ * Archer: Ranger + Chainmail
+ * Knight: Squire
+ * Mage: Warlock
+ * Healer: Medic + Amulet
+ * Mythical Creature: Dragon
  
  Create a player profile of your own and customize it without exceeding the 500 gold coins initially awarded. Challenge whitewolf to battle.
  For each turn taken, the player who is taking the turn, the attacker, the defender, and the outcome of the turn should be printed. At the end of the battle, the outcome of the battle should be printed.
