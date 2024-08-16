@@ -1,5 +1,8 @@
 # Mystic Mayhem
 
+![_6cd8ff81-e48c-477c-a39d-ee4af8116609](https://github.com/user-attachments/assets/6e8f4c48-aac0-4832-ad38-1ee4983df53e)
+
+
 Mystic Mayhem is a turn-based game between two players. Each player has an army  consisting of an Archer, a Knight, a Mage, a Healer, and a Mythical Creature.
  Users of the game need to create user profiles, providing a name and a username. The  name can be changed at any time, but the username cannot be changed once created. The
  username is a unique value; no two players can have the same username. If an attempt is  made to create a new player profile with an existing username, the user should be notified
